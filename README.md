@@ -1,2 +1,2 @@
 # goarvis
-I hope he is your best helper
+I hope goarvis is your best helper
